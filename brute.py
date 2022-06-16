@@ -17,7 +17,7 @@ POST_URL = 'https://www.facebook.com/login.php'
 
 PAYLOAD = {}
 COOKIES = {}
-with open('User-Agent/ALL.txt', "r") as file:
+with open('ALL.txt', "r") as file:
 	HEADERS = file.read().splitlines()
 # def lenguage
 def ugel_form():
