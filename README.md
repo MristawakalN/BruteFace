@@ -14,6 +14,18 @@ Membagikan Secara Publik/Umum.
 
 - `55% Tidak Bekerja Secara Semestinya`
 - `Masih Dalam Perbaikan`
+# How To Install
+> Termux
+pkg update && pkg upgrade
+pkg install python git
+pkg install python2 nano
+git clone https://github.com/MristawakalN/BruteFace
+cd BruteFace
+pip install -r requirements.txt
+python Brute.py
+# Follow Me For More
+-[Facebook](https://www.facebook.com/Shirangryu)
+
 # Note
  Tools ini hanya untuk pendidikan semata, apapun
 Yang dilakukan oleh *pengguna*, *author/pembuat* tidak bertanggung jawab
