@@ -1,3 +1,5 @@
+![images (1)](https://user-images.githubusercontent.com/107562693/174066203-7e812862-062a-40d5-88d2-b21fb94ee7ef.png)
+
 # BruteFace
 Tools Bruteforce Facebook Menggunakan Email/Username
 # Screenshot
@@ -28,7 +30,10 @@ Membagikan Secara Publik/Umum.
 
 # Follow Me For More
 
--[Facebook](https://www.facebook.com/Shirangryu)
+- [Facebook](https://www.facebook.com/Shirangryu)
+- [pinterest](https://www.pinterest.com/Ristawakal26)
+- [Telegram](https://t.me/Ristawakal)
+- [WhatsApp](https://whatsapp.com/+6285823104620)
 
 # Note
  Tools ini hanya untuk pendidikan semata, apapun
