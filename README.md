@@ -28,6 +28,9 @@ Membagikan Secara Publik/Umum.
 > - pip install -r requirements.txt
 > - python Brute.py
 
+# Video
+https://user-images.githubusercontent.com/107562693/174082143-2a4c5407-dbf9-4cf5-b8cb-95b22d8a28d0.mp4
+
 # Follow Me For More
 
 - [Facebook](https://www.facebook.com/Shirangryu)
