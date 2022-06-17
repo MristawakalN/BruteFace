@@ -26,7 +26,7 @@ Membagikan Secara Publik/Umum.
 > - git clone https://github.com/MristawakalN/BruteFace
 > - cd BruteFace
 > - pip install -r requirements.txt
-> - python Brute.py
+> - python3 brute.py
 
 # Video
 https://user-images.githubusercontent.com/107562693/174082143-2a4c5407-dbf9-4cf5-b8cb-95b22d8a28d0.mp4
